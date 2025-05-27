@@ -1,0 +1,33 @@
+{
+  "name": "react-denuse-kit-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ReactDeNUse-KIT - Professional React Hooks Library",
+  "workspaces": [
+    "packages/*",
+    "docs"
+  ],
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "build": "pnpm -r run build",
+    "test": "pnpm -r run test",
+    "lint": "pnpm -r run lint",
+    "docs:dev": "pnpm -F docs run dev",
+    "docs:build": "pnpm -F docs run build",
+    "docs:preview": "pnpm -F docs run preview",
+    "lib:build": "pnpm -F react-denuse-kit run build",
+    "lib:dev": "pnpm -F react-denuse-kit run dev",
+    "lib:test": "pnpm -F react-denuse-kit run test",
+    "release": "pnpm -F react-denuse-kit run release"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.1"
+}
