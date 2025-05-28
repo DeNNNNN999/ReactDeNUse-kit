@@ -1,0 +1,112 @@
+{
+  "hash": "8c312cf5",
+  "configHash": "54c0dabf",
+  "lockfileHash": "85d46608",
+  "browserHash": "332acc80",
+  "optimized": {
+    "react": {
+      "src": "../../../../node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "12dacf18",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "21a557bd",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "ad558f0c",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../../node_modules/.pnpm/react@18.3.1/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "73c6720d",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.15_typescript@5.8.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "23be451e",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.6/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "bfe485b1",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@12.8.2_typescript@5.8.3/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "858c21ef",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@12.8.2_focus-trap@7.6.5_typescript@5.8.3/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "275a0cdc",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "ed2a205b",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@7.1.2/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "ee3ba686",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../../../node_modules/.pnpm/framer-motion@11.18.2_react-dom@18.3.1_react@18.3.1/node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "96cf9500",
+      "needsInterop": false
+    },
+    "prism-react-renderer": {
+      "src": "../../../../node_modules/.pnpm/prism-react-renderer@2.4.1_react@18.3.1/node_modules/prism-react-renderer/dist/index.mjs",
+      "file": "prism-react-renderer.js",
+      "fileHash": "d5339464",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../../node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "791d2c3a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../../../node_modules/.pnpm/react-router-dom@6.30.1_react-dom@18.3.1_react@18.3.1/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "08f8eb16",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DUEPJSOF": {
+      "file": "chunk-DUEPJSOF.js"
+    },
+    "chunk-RZL7LBKR": {
+      "file": "chunk-RZL7LBKR.js"
+    },
+    "chunk-NBJ4KYHW": {
+      "file": "chunk-NBJ4KYHW.js"
+    },
+    "chunk-T53QSYZ7": {
+      "file": "chunk-T53QSYZ7.js"
+    },
+    "chunk-LQ2XEI77": {
+      "file": "chunk-LQ2XEI77.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
